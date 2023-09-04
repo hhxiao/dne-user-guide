@@ -1,1 +1,1 @@
-# Getting Started
+# User Guide
